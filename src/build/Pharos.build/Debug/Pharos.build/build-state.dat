@@ -1,0 +1,622 @@
+TPharos
+v7
+r0
+t318554348.741300
+cCheck dependencies
+cProcessInfoPlistFile /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Info.plist Pharos-Info.plist
+cCopyStringsFile /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/nevlad/Documents/Pharos/English.lproj/MainMenu.xib
+cCompileXIB /Users/nevlad/Documents/Pharos/Map.xib
+cProcessPCH /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch.gch Pharos_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/main.o /Users/nevlad/Documents/Pharos/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/PharosAppDelegate.o /Users/nevlad/Documents/Pharos/PharosAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Map.o /Users/nevlad/Documents/Pharos/Map.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/NMEA.o /Users/nevlad/Documents/Pharos/NMEA.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPBOD.o /Users/nevlad/Documents/Pharos/GPBOD.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPBWC.o /Users/nevlad/Documents/Pharos/GPBWC.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPGGA.o /Users/nevlad/Documents/Pharos/GPGGA.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/MacOS/Pharos normal x86_64
+cTouch /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/IOBluetooth.h
+c000000004C9EFBEC00000000000005F1
+t1285487596
+s1521
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/IOBluetooth
+c000000004CAA74050000000000059BB8
+t1286239237
+s367544
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetoothUI.framework/Headers/IOBluetoothUI.h
+c000000004C9EFBFF0000000000000230
+t1285487615
+s560
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetoothUI.framework/IOBluetoothUI
+c000000004CAA74050000000000014BA8
+t1286239237
+s84904
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.h
+c000000004C23CD6E0000000000000957
+t1277414766
+s2391
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+c000000004CAA7406000000000008DF08
+t1286239238
+s581384
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004CB3F2FA000000000000A5E0
+t1286861562
+s42464
+
+N/Users/nevlad/Documents/Pharos/BluetoothManager.h
+c000000004D0DE9AF00000000000004CB
+t1292757423
+s1227
+i<Cocoa/Cocoa.h>
+i<IOBluetooth/IOBluetooth.h>
+i<IOBluetoothUI/IOBluetoothUI.h>
+
+N/Users/nevlad/Documents/Pharos/BluetoothManager.m
+c000000004D0DEA6B0000000000000231
+t1292757611
+s561
+i"BluetoothManager.h"
+
+N/Users/nevlad/Documents/Pharos/English.lproj/InfoPlist.strings
+c000000004D0DCF01000000000000002D
+t1292750593
+s45
+
+N/Users/nevlad/Documents/Pharos/English.lproj/MainMenu.xib
+c000000004D0E897E0000000000033F95
+t1292798334
+s212885
+
+N/Users/nevlad/Documents/Pharos/GPBOD.h
+c000000004D0FFBB200000000000003A9
+t1292893106
+s937
+i<Cocoa/Cocoa.h>
+
+N/Users/nevlad/Documents/Pharos/GPBOD.m
+c000000004D0FFFE00000000000000359
+t1292894176
+s857
+i"GPBOD.h"
+
+N/Users/nevlad/Documents/Pharos/GPBWC.h
+c000000004D101C36000000000000069C
+t1292901430
+s1692
+i<Cocoa/Cocoa.h>
+
+N/Users/nevlad/Documents/Pharos/GPBWC.m
+c000000004D101CCF000000000000059B
+t1292901583
+s1435
+i"GPBWC.h"
+
+N/Users/nevlad/Documents/Pharos/GPGGA.h
+c000000004D12A2E400000000000007A9
+t1293066980
+s1961
+i<Cocoa/Cocoa.h>
+
+N/Users/nevlad/Documents/Pharos/GPGGA.m
+c000000004D24D6A60000000000001555
+t1294259878
+s5461
+i"GPGGA.h"
+
+N/Users/nevlad/Documents/Pharos/Location.h
+c000000004D10202800000000000001E9
+t1292902440
+s489
+i<Cocoa/Cocoa.h>
+
+N/Users/nevlad/Documents/Pharos/Location.m
+c000000004D1029460000000000000240
+t1292904774
+s576
+i"Location.h"
+
+N/Users/nevlad/Documents/Pharos/Map.h
+c000000004D12A6E300000000000003E6
+t1293068003
+s998
+i<Cocoa/Cocoa.h>
+i<WebKit/WebKit.h>
+
+N/Users/nevlad/Documents/Pharos/Map.m
+c000000004D12A78B00000000000006E3
+t1293068171
+s1763
+i"Map.h"
+i<WebKit/WebKit.h>
+i"GPBWC.h"
+
+N/Users/nevlad/Documents/Pharos/Map.xib
+c000000004D0FBFC5000000000000BF37
+t1292877765
+s48951
+
+N/Users/nevlad/Documents/Pharos/NMEA.h
+c000000004D12A92B000000000000023F
+t1293068587
+s575
+i<Cocoa/Cocoa.h>
+i"GPGGA.h"
+i"Map.h"
+
+N/Users/nevlad/Documents/Pharos/NMEA.m
+c000000004D12A92F0000000000000B18
+t1293068591
+s2840
+i"NMEA.h"
+
+N/Users/nevlad/Documents/Pharos/PharosAppDelegate.h
+c000000004D1177FB0000000000000739
+t1292990459
+s1849
+i<Cocoa/Cocoa.h>
+i<IOBluetooth/IOBluetooth.h>
+i<IOBluetoothUI/IOBluetoothUI.h>
+i"Map.h"
+i"GPGGA.h"
+i"NMEA.h"
+
+N/Users/nevlad/Documents/Pharos/PharosAppDelegate.m
+c000000004D12A20600000000000014F6
+t1293066758
+s5366
+i"PharosAppDelegate.h"
+i"Map.h"
+
+N/Users/nevlad/Documents/Pharos/Pharos_Prefix.pch
+c000000004D0DCF01000000000000008F
+t1292750593
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/nevlad/Documents/Pharos/RFCommDelegate.h
+c000000004D0E058B0000000000000103
+t1292764555
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/nevlad/Documents/Pharos/RFCommDelegate.m
+c000000004D0E05B100000000000000FA
+t1292764593
+s250
+i"RFCommDelegate.h"
+
+N/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app
+t1294259882
+s102
+
+N/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Info.plist
+t1292967826
+s883
+
+N/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/MacOS/Pharos
+t1294259882
+s80200
+
+N/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/PkgInfo
+t1292967826
+s8
+
+N/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292967826
+s92
+
+N/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292967826
+s41000
+
+N/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Resources/Map.nib
+t1292967826
+s5583
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/BluetoothManager.o
+t1292757754
+s25072
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPBOD.o
+t1292967830
+s17988
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPBWC.o
+t1292967830
+s28628
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPGGA.o
+t1294259882
+s41588
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Location.o
+t1292967830
+s14276
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Map.o
+t1293068172
+s31472
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/NMEA.o
+t1293069865
+s26928
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Pharos.LinkFileList
+c000000004D11722B00000000000002BD
+t1292988971
+s701
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/PharosAppDelegate.o
+t1293069865
+s66536
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/RFCommDelegate.o
+t2
+s0
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/main.o
+t1292967829
+s4976
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/GPBOD.plist
+t1292967984
+s276
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/GPBWC.plist
+t1292967984
+s276
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/GPGGA.plist
+t1293064446
+s276
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/Location.plist
+t1292967984
+s276
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/Map.plist
+t1293064446
+s276
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/NMEA.plist
+t1293064446
+s276
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/PharosAppDelegate.plist
+t1293064446
+s5504
+
+N/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/main.plist
+t1292967984
+s276
+
+N/Users/nevlad/Documents/Pharos/main.m
+c000000004D0DCF0100000000000000EA
+t1292750593
+s234
+i<Cocoa/Cocoa.h>
+
+N/var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch.gch
+t1292967829
+s54306576
+
+N/var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch.pth
+t1292893814
+s9005432
+
+NPharos-Info.plist
+c000000004D0DCF0100000000000003EA
+t1292750593
+s1002
+
+CAnalyze /Users/nevlad/Documents/Pharos/GPBOD.m
+s314660784.674265
+e314660784.810923
+r1
+xAnalyze
+x/Users/nevlad/Documents/Pharos/GPBOD.m
+lSLF07#2@46"Analyze /Users/nevlad/Documents/Pharos/GPBOD.m314660784#314660784#0(0"0(0#0#38"/Users/nevlad/Documents/Pharos/GPBOD.m8621698400#1398"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch --analyze /Users/nevlad/Documents/Pharos/GPBOD.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/GPBOD.plist0#
+
+CAnalyze /Users/nevlad/Documents/Pharos/GPBWC.m
+s314660784.797971
+e314660784.923245
+r1
+xAnalyze
+x/Users/nevlad/Documents/Pharos/GPBWC.m
+lSLF07#2@46"Analyze /Users/nevlad/Documents/Pharos/GPBWC.m314660784#314660784#0(0"0(0#0#38"/Users/nevlad/Documents/Pharos/GPBWC.m8621518944#1398"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch --analyze /Users/nevlad/Documents/Pharos/GPBWC.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/GPBWC.plist0#
+
+CAnalyze /Users/nevlad/Documents/Pharos/GPGGA.m
+s314757246.737598
+e314757246.888491
+r1
+xAnalyze
+x/Users/nevlad/Documents/Pharos/GPGGA.m
+lSLF07#2@46"Analyze /Users/nevlad/Documents/Pharos/GPGGA.m314757246#314757246#0(0"0(0#0#38"/Users/nevlad/Documents/Pharos/GPGGA.m8616078176#1398"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch --analyze /Users/nevlad/Documents/Pharos/GPGGA.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/GPGGA.plist0#
+
+CAnalyze /Users/nevlad/Documents/Pharos/Location.m
+s314660784.505422
+e314660784.643078
+r1
+xAnalyze
+x/Users/nevlad/Documents/Pharos/Location.m
+lSLF07#2@49"Analyze /Users/nevlad/Documents/Pharos/Location.m314660784#314660784#0(0"0(0#0#41"/Users/nevlad/Documents/Pharos/Location.m8621370880#1404"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch --analyze /Users/nevlad/Documents/Pharos/Location.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/Location.plist0#
+
+CAnalyze /Users/nevlad/Documents/Pharos/Map.m
+s314757246.581367
+e314757246.737369
+r1
+xAnalyze
+x/Users/nevlad/Documents/Pharos/Map.m
+lSLF07#2@44"Analyze /Users/nevlad/Documents/Pharos/Map.m314757246#314757246#0(0"0(0#0#36"/Users/nevlad/Documents/Pharos/Map.m8623242784#1394"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch --analyze /Users/nevlad/Documents/Pharos/Map.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/Map.plist0#
+
+CAnalyze /Users/nevlad/Documents/Pharos/NMEA.m
+s314757246.718600
+e314757246.899928
+r1
+xAnalyze
+x/Users/nevlad/Documents/Pharos/NMEA.m
+lSLF07#2@45"Analyze /Users/nevlad/Documents/Pharos/NMEA.m314757246#314757246#0(0"0(0#0#37"/Users/nevlad/Documents/Pharos/NMEA.m8617326912#1396"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch --analyze /Users/nevlad/Documents/Pharos/NMEA.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/NMEA.plist0#
+
+CAnalyze /Users/nevlad/Documents/Pharos/PharosAppDelegate.m
+s314757246.415092
+e314757246.718502
+r1
+xAnalyze
+x/Users/nevlad/Documents/Pharos/PharosAppDelegate.m
+o/Users/nevlad/Documents/Pharos/PharosAppDelegate.m:152:2:{153:21-153:36}: warning: Pass-by-value argument in message expression is undefined
+o         [device openRFCOMMChannelAsync:&channel 
+o         ^
+o1 warning generated.
+lSLF07#2@58"Analyze /Users/nevlad/Documents/Pharos/PharosAppDelegate.m314757246#314757246#0(223"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m:152:2:{153:21-153:36}: warning: Pass-by-value argument in message expression is undefined         [device openRFCOMMChannelAsync:&channel          ^1 warning generated.1(0@57"Pass-by-value argument in message expression is undefined314757246#18446744073709551615#0#5(17@0"314757246#18446744073709551615#0#0(6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#0#0#0#0#0"0(6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#0#0#0#0#1(3@6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#131#2#131#2#6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#139#2#139#41#21@60"Variable 'rfcommChannelID' declared without an initial value314757246#18446744073709551615#0#0(6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#139#2#0#0#0"1(6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#139#2#139#41#60"Variable 'rfcommChannelID' declared without an initial value17@0"314757246#18446744073709551615#0#0(6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#0#0#0#0#0"0(6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#0#0#0#0#1(3@6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#139#2#139#41#6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#141#2#141#2#17@0"314757246#18446744073709551615#0#0(6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#0#0#0#0#0"0(6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#0#0#0#0#1(3@6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#141#2#141#2#6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#152#2#154#22#21@57"Pass-by-value argument in message expression is undefined314757246#18446744073709551615#0#0(6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#152#2#0#0#0"1(6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#153#21#153#35#57"Pass-by-value argument in message expression is undefined6@50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m314752941#152#2#0#0#11"Logic error0(57"Pass-by-value argument in message expression is undefined0#0#50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m8622081216#1422"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch --analyze /Users/nevlad/Documents/Pharos/PharosAppDelegate.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/PharosAppDelegate.plist0#
+
+CAnalyze /Users/nevlad/Documents/Pharos/main.m
+s314660784.034752
+e314660784.205397
+r1
+xAnalyze
+x/Users/nevlad/Documents/Pharos/main.m
+lSLF07#2@45"Analyze /Users/nevlad/Documents/Pharos/main.m314660784#314660784#0(0"0(0#0#37"/Users/nevlad/Documents/Pharos/main.m8621196480#1396"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch --analyze /Users/nevlad/Documents/Pharos/main.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/StaticAnalyzer/normal/x86_64/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318554348#318554348#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/BluetoothManager.o /Users/nevlad/Documents/Pharos/BluetoothManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314450554.472135
+e314450554.717148
+r1
+xCompileC
+xbuild/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/BluetoothManager.o
+x/Users/nevlad/Documents/Pharos/BluetoothManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/nevlad/Documents/Pharos/BluetoothManager.m314450554#314450554#0(0"0(0#0#49"/Users/nevlad/Documents/Pharos/BluetoothManager.m8611526272#1366"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch -c /Users/nevlad/Documents/Pharos/BluetoothManager.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/BluetoothManager.o0#
+
+CCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPBOD.o /Users/nevlad/Documents/Pharos/GPBOD.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314660630.543981
+e314660630.720753
+r1
+xCompileC
+xbuild/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPBOD.o
+x/Users/nevlad/Documents/Pharos/GPBOD.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/nevlad/Documents/Pharos/GPBOD.m314660630#314660630#0(0"0(0#0#38"/Users/nevlad/Documents/Pharos/GPBOD.m8619527488#1344"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch -c /Users/nevlad/Documents/Pharos/GPBOD.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPBOD.o0#
+
+CCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPBWC.o /Users/nevlad/Documents/Pharos/GPBWC.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314660630.719697
+e314660630.930128
+r1
+xCompileC
+xbuild/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPBWC.o
+x/Users/nevlad/Documents/Pharos/GPBWC.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/nevlad/Documents/Pharos/GPBWC.m314660630#314660630#0(0"0(0#0#38"/Users/nevlad/Documents/Pharos/GPBWC.m8620621248#1344"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch -c /Users/nevlad/Documents/Pharos/GPBWC.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPBWC.o0#
+
+CCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPGGA.o /Users/nevlad/Documents/Pharos/GPGGA.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315952681.686266
+e315952682.430401
+r1
+xCompileC
+xbuild/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPGGA.o
+x/Users/nevlad/Documents/Pharos/GPGGA.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nevlad/Documents/Pharos/GPGGA.m: In function '-[GPGGA getLongitude]':
+o/Users/nevlad/Documents/Pharos/GPGGA.m:70: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'
+o/Users/nevlad/Documents/Pharos/GPGGA.m: In function '-[GPGGA getLatitude]':
+o/Users/nevlad/Documents/Pharos/GPGGA.m:104: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'
+lSLF07#2@46"Compile /Users/nevlad/Documents/Pharos/GPGGA.m315952681#315952682#0(446"/Users/nevlad/Documents/Pharos/GPGGA.m: In function '-[GPGGA getLongitude]':/Users/nevlad/Documents/Pharos/GPGGA.m:70: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'/Users/nevlad/Documents/Pharos/GPGGA.m: In function '-[GPGGA getLatitude]':/Users/nevlad/Documents/Pharos/GPGGA.m:104: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'2(22@93"Incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'315952682#77#146#0(6@38"/Users/nevlad/Documents/Pharos/GPGGA.m315952678#70#0#70#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@93"Incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'315952682#299#147#0(6@38"/Users/nevlad/Documents/Pharos/GPGGA.m315952678#104#0#104#0#61"incompatible Objective-C types initializing '*', expected '*'0(0#0#38"/Users/nevlad/Documents/Pharos/GPGGA.m5784644147677706240#1344"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch -c /Users/nevlad/Documents/Pharos/GPGGA.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/GPGGA.o0#
+
+CCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Location.o /Users/nevlad/Documents/Pharos/Location.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314660630.102565
+e314660630.543877
+r1
+xCompileC
+xbuild/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Location.o
+x/Users/nevlad/Documents/Pharos/Location.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/nevlad/Documents/Pharos/Location.m314660630#314660630#0(0"0(0#0#41"/Users/nevlad/Documents/Pharos/Location.m8612609920#1350"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch -c /Users/nevlad/Documents/Pharos/Location.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Location.o0#
+
+CCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Map.o /Users/nevlad/Documents/Pharos/Map.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314760971.761659
+e314760972.313892
+r1
+xCompileC
+xbuild/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Map.o
+x/Users/nevlad/Documents/Pharos/Map.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/nevlad/Documents/Pharos/Map.m314760971#314760972#0(0"0(0#0#36"/Users/nevlad/Documents/Pharos/Map.m8623974464#1340"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch -c /Users/nevlad/Documents/Pharos/Map.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Map.o0#
+
+CCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/NMEA.o /Users/nevlad/Documents/Pharos/NMEA.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314762665.049163
+e314762665.320802
+r1
+xCompileC
+xbuild/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/NMEA.o
+x/Users/nevlad/Documents/Pharos/NMEA.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/nevlad/Documents/Pharos/NMEA.m314762665#314762665#0(0"0(0#0#37"/Users/nevlad/Documents/Pharos/NMEA.m8624578016#1342"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch -c /Users/nevlad/Documents/Pharos/NMEA.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/NMEA.o0#
+
+CCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/PharosAppDelegate.o /Users/nevlad/Documents/Pharos/PharosAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314762665.048143
+e314762665.594547
+r1
+xCompileC
+xbuild/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/PharosAppDelegate.o
+x/Users/nevlad/Documents/Pharos/PharosAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/nevlad/Documents/Pharos/PharosAppDelegate.m314762665#314762665#0(0"0(0#0#50"/Users/nevlad/Documents/Pharos/PharosAppDelegate.m8624482208#1368"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch -c /Users/nevlad/Documents/Pharos/PharosAppDelegate.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/PharosAppDelegate.o0#
+
+CCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/RFCommDelegate.o /Users/nevlad/Documents/Pharos/RFCommDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314458194.295387
+e314458194.408699
+r0
+xCompileC
+xbuild/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/RFCommDelegate.o
+x/Users/nevlad/Documents/Pharos/RFCommDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/nevlad/Documents/Pharos/RFCommDelegate.m:9:
+o/Users/nevlad/Documents/Pharos/RFCommDelegate.h:12: error: cannot find protocol declaration for 'IOBluetoothRFCOMMChannelDelegate'
+lSLF07#2@55"Compile /Users/nevlad/Documents/Pharos/RFCommDelegate.m314458194#314458194#0(204"In file included from /Users/nevlad/Documents/Pharos/RFCommDelegate.m:9:/Users/nevlad/Documents/Pharos/RFCommDelegate.h:12: error: cannot find protocol declaration for 'IOBluetoothRFCOMMChannelDelegate'1(4@71"Cannot find protocol declaration for 'IOBluetoothRFCOMMChannelDelegate'314458194#73#131#2(7@69"In file included from /Users/nevlad/Documents/Pharos/RFCommDelegate.m314458194#18446744073709551615#0#0(6@47"/Users/nevlad/Documents/Pharos/RFCommDelegate.m314457393#9#0#9#0#0"0(13@122"Cannot find protocol declaration for 'IOBluetoothRFCOMMChannelDelegate' in /Users/nevlad/Documents/Pharos/RFCommDelegate.h314458194#18446744073709551615#0#0(6@47"/Users/nevlad/Documents/Pharos/RFCommDelegate.h314457355#12#0#12#0#0"0(6@47"/Users/nevlad/Documents/Pharos/RFCommDelegate.h314457355#12#0#12#0#0"0(0#0#47"/Users/nevlad/Documents/Pharos/RFCommDelegate.m8619082016#1362"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch -c /Users/nevlad/Documents/Pharos/RFCommDelegate.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/RFCommDelegate.o1#
+
+CCompileC build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/main.o /Users/nevlad/Documents/Pharos/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314660629.676200
+e314660629.841084
+r1
+xCompileC
+xbuild/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/main.o
+x/Users/nevlad/Documents/Pharos/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/nevlad/Documents/Pharos/main.m314660629#314660629#0(0"0(0#0#37"/Users/nevlad/Documents/Pharos/main.m8619766496#1342"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -include /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch -c /Users/nevlad/Documents/Pharos/main.m -o /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/nevlad/Documents/Pharos/English.lproj/MainMenu.xib
+s314660626.196798
+e314660626.693144
+r1
+xCompileXIB
+x/Users/nevlad/Documents/Pharos/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib314660626#314660626#0(0"0(0#0#57"/Users/nevlad/Documents/Pharos/English.lproj/MainMenu.xib8615344576#339"    cd /Users/nevlad/Documents/Pharos    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Resources/English.lproj/MainMenu.nib /Users/nevlad/Documents/Pharos/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/nevlad/Documents/Pharos/Map.xib
+s314660626.234866
+e314660626.569491
+r1
+xCompileXIB
+x/Users/nevlad/Documents/Pharos/Map.xib
+lSLF07#2@18"CompileXIB Map.xib314660626#314660626#0(0"0(0#0#38"/Users/nevlad/Documents/Pharos/Map.xib8614598080#301"    cd /Users/nevlad/Documents/Pharos    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Resources/Map.nib /Users/nevlad/Documents/Pharos/Map.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s314660626.193012
+e314660626.234777
+r1
+xCopyStringsFile
+x/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings314660626#314660626#0(0"0(0#0#62"/Users/nevlad/Documents/Pharos/English.lproj/InfoPlist.strings8616650080#348"    cd /Users/nevlad/Documents/Pharos    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Resources/English.lproj0#
+
+CLd /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/MacOS/Pharos normal x86_64
+s315952682.430485
+e315952682.545967
+r1
+xLd
+x/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/MacOS/Pharos
+xnormal
+xx86_64
+lSLF07#2@80"Link /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/MacOS/Pharos315952682#315952682#0(0"0(0#0#0"30962724183932976#563"    cd /Users/nevlad/Documents/Pharos    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/nevlad/Documents/Pharos/build/Debug -F/Users/nevlad/Documents/Pharos/build/Debug -filelist /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Objects-normal/x86_64/Pharos.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework IOBluetooth -framework IOBluetoothUI -framework WebKit -o /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/MacOS/Pharos0#
+
+CProcessInfoPlistFile /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Info.plist Pharos-Info.plist
+s314660626.189475
+e314660626.192935
+r1
+xProcessInfoPlistFile
+x/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Info.plist
+xPharos-Info.plist
+lSLF07#2@25"Process Pharos-Info.plist314660626#314660626#0(0"0(0#0#48"/Users/nevlad/Documents/Pharos/Pharos-Info.plist8619897632#283"    cd /Users/nevlad/Documents/Pharos    builtin-infoPlistUtility Pharos-Info.plist -genpkginfo /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch.gch Pharos_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314660626.693263
+e314660629.675999
+r1
+xProcessPCH
+x/var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch.gch
+xPharos_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Pharos_Prefix.pch314660626#314660629#0(0"0(0#0#48"/Users/nevlad/Documents/Pharos/Pharos_Prefix.pch8612996448#1257"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -c /Users/nevlad/Documents/Pharos/Pharos_Prefix.pch -o /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-abhlvgsjkmmlhxhbdqnsxxlnzsix/Pharos_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch.pth Pharos_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s314586613.949956
+e314586614.904183
+r1
+xProcessPCH
+x/var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch.pth
+xPharos_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@28"Precompile Pharos_Prefix.pch314586613#314586614#0(0"0(0#0#48"/Users/nevlad/Documents/Pharos/Pharos_Prefix.pch8623188544#1293"    cd /Users/nevlad/Documents/Pharos    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-generated-files.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-own-target-headers.hmap -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-all-target-headers.hmap -iquote /Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/Pharos-project-headers.hmap -F/Users/nevlad/Documents/Pharos/build/Debug -I/Users/nevlad/Documents/Pharos/build/Debug/include -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources/x86_64 -I/Users/nevlad/Documents/Pharos/build/Pharos.build/Debug/Pharos.build/DerivedSources -c /Users/nevlad/Documents/Pharos/Pharos_Prefix.pch -o /var/folders/RM/RMQYY3W1H8CowXYmlfBpi++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pharos_Prefix-gyfquhhilmhhjlbulsaqljuuskcx/Pharos_Prefix.pch.pth0#
+
+CTouch /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app
+s315952682.546059
+e315952682.549978
+r1
+xTouch
+x/Users/nevlad/Documents/Pharos/build/Debug/Pharos.app
+lSLF07#2@59"Touch /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app315952682#315952682#0(0"0(0#0#0"8603858528#114"    cd /Users/nevlad/Documents/Pharos    /usr/bin/touch -c /Users/nevlad/Documents/Pharos/build/Debug/Pharos.app0#
+
